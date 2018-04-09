@@ -4,8 +4,8 @@
 /*1. make the background color dark gray: #212121*/
 /*2. change the font family to: 'lato'*/
 .my-body{
-	
-
+	background-color: black;
+	font-family: 'Lato'
 }
 
 /*3. enlarge the font size to: 4rem*/
@@ -13,8 +13,10 @@
 /*5. change the text color to: white*/
 .my-title{
 	
-
-
+	font-size: 4rem;
+	font-weight: 900;
+	color: white
+	
 }
 
 /*6. enlarge the font size to: 1.25rem*/
@@ -23,8 +25,10 @@
 /*9. change the background color to: white*/
 .my-subtitle{
 	
-
-
+	font-size: 1.25rem;
+	font-weight: 400;
+	color: orangered;
+	background-color: white
 
 }
 
@@ -33,8 +37,9 @@
 /*12. change the text color to: white*/
 .my-paragraph{
 	
-
-
+	font-size: 3rem;
+	font-weight: 100;
+	color: white
 
 }
 
@@ -45,4 +50,5 @@
 	color: orangered*/
 .my-strong{
 	
+	text-shadow: 10px 10px 0 orangered
 }
