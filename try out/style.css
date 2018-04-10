@@ -1,4 +1,4 @@
-em{
+/*em{
     color: red;
     font-family: fantasy;
     zoom: 200%;
@@ -19,13 +19,30 @@ h1{
 
 .classA{
     font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+    background-color: bisque
 }
 
 .a{
-    color: limegreen
+    color: limegreen;
+    font-style: italic;
+    font-size: 5rem
 }
 
 .b{
     font-size: 100px;
     color: mediumpurple
-}
+}*/
+
+
+/*.outer-div{
+    background-color: aquamarine;
+    border: 20px dashed red;
+    margin:20px;
+    padding:20px;
+    color: purple;
+    width: 200px;
+    height:400px;
+    font: size 10rm
+}*/
+
