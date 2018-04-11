@@ -64,3 +64,18 @@ a:active{
 a:visited{
     color: peachpuff
 }
+
+
+@media (min-width:768px){
+    .my_title{
+        font-size:60px;
+        color: black
+    }
+}
+
+@media (max-width:768px){
+    .my_title{
+        font-size: 20px;
+        color: red
+    }
+}
